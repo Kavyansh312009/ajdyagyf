@@ -1,0 +1,28 @@
+body{
+    background-color:cornsilk;
+    color: black;
+    text-align: center;
+}
+.header_div{
+    background-color:aliceblue ;
+    color: rgb(211, 6, 6);
+    
+}
+.header_div p{
+    font-family: 'Gluten', cursive;
+    color: grey;
+    letter-spacing: 3px;
+    font-size: 20px;
+    font-weight: bold; 
+}
+
+.footer{
+    position: fixed;
+    color:rgb(10, 103, 113);
+    bottom: 0;
+    font-size: 20px;
+    width: 100%;
+    background-color: rgb(195, 207, 199);
+    line-height: 2;
+    text-shadow: 3px 3px 1px rgb(0, 183, 255);
+}
